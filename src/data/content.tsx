@@ -46,7 +46,7 @@ export const technicalSkills: SkillArticle[] = [
   },
   {
     id: 'full-stack-development',
-    title: 'Vue d\'ensemble',
+    title: 'Mon référentiel de filière',
     description: '7 compétences dans mon Référentiel de filière',
     icon: <Code size={24} />,
     overview: 'Pour chaque compétence, qu\'est-ce que j\'applique déjà dans ma pratique actuelle ? Quels sont les points qui me satisfont ?',
