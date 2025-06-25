@@ -45,7 +45,7 @@ const ArticlePage: React.FC<ArticlePageProps> = ({ article, category }) => {
             {/* Vue d'ensemble */}
             <section className="mb-12">
               <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white pb-2 border-b border-gray-200 dark:border-gray-700">
-                Vue d'ensemble
+                Vue d'ensembleee
               </h2>
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                 {article.overview}
