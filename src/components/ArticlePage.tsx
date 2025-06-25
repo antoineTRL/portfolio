@@ -47,7 +47,7 @@ const ArticlePage: React.FC<ArticlePageProps> = ({ article, category }) => {
               <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white pb-2 border-b border-gray-200 dark:border-gray-700">
                 
               </h2>
-              <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
+              <p className="text-gray-700 dark:text-gray-300 leading-relaxed italic">
                 {article.overview}
               </p>
             </section>
@@ -62,37 +62,37 @@ const ArticlePage: React.FC<ArticlePageProps> = ({ article, category }) => {
                 <div className="space-y-8">
                   <div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg">
                     <h3 className="text-xl font-semibold mb-3 text-blue-600 dark:text-blue-400">
-                      1. Analyser les besoins du client en réalisant un diagnostic de son écosystème interne et en procédant à une étude de faisabilité afin d’identifier les problèmes à l’origine du besoin et faire émerger des pistes de solutions.
+                      1. Analyser les besoins du client en réalisant un diagnostic de son écosystème interne et en procédant à une étude de faisabilité afin d'identifier les problèmes à l'origine du besoin et faire émerger des pistes de solutions.
                     </h3>
                     <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                       Pour moi, cette compétence correspond à une évidence en entreprise, le but étant toujours de satisfaire le client.
-Lors de la réalisation d’un formulaire qu’un client souhaitait reproduire de façon automatisé avec SAP,  j’ai fait des compromis afin que les éléments de mise en page de SAP puissent correspondre au mieux au formulaire déjà existant du client.
+Lors de la réalisation d'un formulaire qu'un client souhaitait reproduire de façon automatisé avec SAP,  j'ai fait des compromis afin que les éléments de mise en page de SAP puissent correspondre au mieux au formulaire déjà existant du client.
 Cette compétence est à mon sens obligatoire professionnellement, sans la compréhension du besoin client on ne peut atteindre un résultat qui satisfera le travailleur et le client.
                     </p>
                   </div>
 
                   <div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg">
                     <h3 className="text-xl font-semibold mb-3 text-blue-600 dark:text-blue-400">
-                      2. Assurer le suivi du projet en mesurant régulièrement l’avancée du projet avec les outils et méthodes appropriés afin d’appliquer des mesures adaptatives et garantir la satisfaction du client et des utilisateurs.
+                      2. Assurer le suivi du projet en mesurant régulièrement l'avancée du projet avec les outils et méthodes appropriés afin d'appliquer des mesures adaptatives et garantir la satisfaction du client et des utilisateurs.
                     </h3>
                     <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                      Le suivi d’avancement de projet est quelque chose d’utile pour l’équipe qui travaille pour avoir une marge de progression, de voir le bout du tunnel; Mais aussi pour le client car ce dernier aura besoin d’avoir des dates sur lequel se fixer afin de mettre des deadlines.
-Dans un de mes projets d’équipes nous utilisions excel afin de déterminer à combien de pourcent nous étions dans le projet.
+                      Le suivi d'avancement de projet est quelque chose d'utile pour l'équipe qui travaille pour avoir une marge de progression, de voir le bout du tunnel; Mais aussi pour le client car ce dernier aura besoin d'avoir des dates sur lequel se fixer afin de mettre des deadlines.
+Dans un de mes projets d'équipes nous utilisions excel afin de déterminer à combien de pourcent nous étions dans le projet.
                     </p>
                   </div>
 
                   <div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg">
                     <h3 className="text-xl font-semibold mb-3 text-blue-600 dark:text-blue-400">
-                      3. Assurer le suivi des demandes utilisateurs en exploitant des outils de suivi permettant de recenser les anomalies afin de procéder aux mesures correctives, évolutives et adaptatives de l’application.
+                      3. Assurer le suivi des demandes utilisateurs en exploitant des outils de suivi permettant de recenser les anomalies afin de procéder aux mesures correctives, évolutives et adaptatives de l'application.
                     </h3>
                     <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                      Tout comme le point précédent, le suivi de l’avancement est crucial pour la gestion du projet. Représenté sous forme de graphique, il permet d’identifier les périodes de hausse ou de baisse de productivité de l’équipe. Par exemple, lors de mon premier projet, une baisse visible sur mon graphique a permis à mon supérieur de m’assigner des tâches moins difficiles et mieux adaptées à mon niveau, ce qui m’a débloqué et m’a permis de progresser.
+                      Tout comme le point précédent, le suivi de l'avancement est crucial pour la gestion du projet. Représenté sous forme de graphique, il permet d'identifier les périodes de hausse ou de baisse de productivité de l'équipe. Par exemple, lors de mon premier projet, une baisse visible sur mon graphique a permis à mon supérieur de m'assigner des tâches moins difficiles et mieux adaptées à mon niveau, ce qui m'a débloqué et m'a permis de progresser.
                     </p>
                   </div>
 
                   <div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg">
                     <h3 className="text-xl font-semibold mb-3 text-blue-600 dark:text-blue-400">
-                      4. Industrialiser le développement du logiciel à l’aide d’outils d’automatisation et le documenter en décrivant le processus de déploiement de manière à faire évoluer les logiciels développés et minimiser les erreurs de manipulation par les tiers.
+                      4. Industrialiser le développement du logiciel à l'aide d'outils d'automatisation et le documenter en décrivant le processus de déploiement de manière à faire évoluer les logiciels développés et minimiser les erreurs de manipulation par les tiers.
                     </h3>
                     <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                       J'ai mené une étude pour mon entreprise dans le but d'implémenter la technologie de complétion de code sur l'environnement SAP, qui n'est initialement ni éligible ni efficace pour cette technologie. Suite à cette étude, j'ai effectué des tests et rédigé une documentation pour l'installation de cette dernière. 
@@ -102,19 +102,19 @@ J'apprécie cet aspect du métier qui consiste à innover, à améliorer les mé
 
                   <div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg">
                     <h3 className="text-xl font-semibold mb-3 text-blue-600 dark:text-blue-400">
-                      5. Développer les fonctionnalités d’un logiciel existant, en s’appropriant l’historique de la solution à faire évoluer, et prenant en compte les évolutions futures dont elle pourra faire l’objet  à long terme dans le cadre d’une reprise par un tiers  afin de garantir la pérennité du logiciel et s’assurer de son évolutivité dans le temps.
+                      5. Développer les fonctionnalités d'un logiciel existant, en s'appropriant l'historique de la solution à faire évoluer, et prenant en compte les évolutions futures dont elle pourra faire l'objet  à long terme dans le cadre d'une reprise par un tiers  afin de garantir la pérennité du logiciel et s'assurer de son évolutivité dans le temps.
                     </h3>
                     <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                       L'innovation va de pair avec la maintenabilité d'un logiciel, un principe fondamental de la création informatique. Par maintenabilité, j'entends l'utilisation d'outils modernes. Par exemple, en entreprise, après une mise à jour de version SAP de l'environnement client, j'ai dû adapter les prises de données aux nouvelles tables disponibles, les anciennes tables d'extraction des données n'existant plus.
 
-C’est selon moi une notion nécessaire dans mon milieu professionnel.
+C'est selon moi une notion nécessaire dans mon milieu professionnel.
 Par exemple, à l'avenir je souhaite travailler sur une nouvelle technologie de SAP intitulé SAP Cloud Platform Integration, qui est un moyen graphique de développer et de mapper des données.
                     </p>
                   </div>
 
                   <div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg">
                     <h3 className="text-xl font-semibold mb-3 text-blue-600 dark:text-blue-400">
-                      6. Implémenter un logiciel de qualité, en choisissant des structures de données adaptées et des algorithmes pertinents afin d’assurer la robustesse du logiciel.
+                      6. Implémenter un logiciel de qualité, en choisissant des structures de données adaptées et des algorithmes pertinents afin d'assurer la robustesse du logiciel.
                     </h3>
                     <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                       Évidemment, implémenter un logiciel sans structures de données ni algorithmes pertinents est impossible dans mon environnement professionnel. Ces notions sont indispensables pour garantir la maintenabilité d'un logiciel. Ayant dû reprendre le code de quelqu'un qui ne respectait pas ces principes, je peux confirmer que la tâche fut ardue. Si les données ne sont pas implémentées de manière dynamique, le code entraînera des répétitions, et plus le logiciel est volumineux, plus la répétition devient problématique.
@@ -123,12 +123,12 @@ Par exemple, à l'avenir je souhaite travailler sur une nouvelle technologie de 
 
                   <div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg">
                     <h3 className="text-xl font-semibold mb-3 text-blue-600 dark:text-blue-400">
-                      7. Tester le logiciel et l’application à plusieurs niveaux en utilisant les méthodologies de test éprouvées afin de garantir la conformité du logiciel au regard des spécifications et la non-régression des fonctionnalités déjà développées.
+                      7. Tester le logiciel et l'application à plusieurs niveaux en utilisant les méthodologies de test éprouvées afin de garantir la conformité du logiciel au regard des spécifications et la non-régression des fonctionnalités déjà développées.
                     </h3>
                     <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                       Tester notre travail est essentiel pour un logiciel informatique. Cela permet de voir le logiciel sous un autre angle. En tant que créateurs, nous avons un plan d'utilisation prévu pour l'utilisateur, mais parfois le logiciel peut emprunter un autre chemin. Ce scénario peut engendrer des erreurs ou inciter l'utilisateur à effectuer des actions différentes de celles que nous avions prévues. 
 
-Les tests fonctionnels sont une étape normale de l'avancement d'un projet, garantissant que celui-ci continue de répondre aux règles métier et aux besoins fondamentaux du client. Lors de mes projets informatiques professionnels, quand j’estime avoir terminé il faut toujours que je vois avec un consultant fonctionnel qui connait le besoin afin de m’assurer que le travail effectuer de s’écarte pas de la tâche demandé de base ou si des besoins sont manquants.
+Les tests fonctionnels sont une étape normale de l'avancement d'un projet, garantissant que celui-ci continue de répondre aux règles métier et aux besoins fondamentaux du client. Lors de mes projets informatiques professionnels, quand j'estime avoir terminé il faut toujours que je vois avec un consultant fonctionnel qui connait le besoin afin de m'assurer que le travail effectuer de s'écarte pas de la tâche demandé de base ou si des besoins sont manquants.
                     </p>
                   </div>
                 </div>
