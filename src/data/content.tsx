@@ -319,7 +319,7 @@ export const achievements: ProjectArticle[] = [
       <p>L'intégration des données ne devra pas comporter d'erreur de mapping (comme une mauvaise correspondance entre les champs des deux systèmes) <br></br>ou ne devra pas comporter de réutilisation de données déjà existantes sur le système S/4HANA.</p>
     ),
     presentation: (
-      <p>On doit créer des employés (leur créer des identifiants pour se connecter, des entrées de données correspondant à leur noms, prénom, adresse etc…) donc ce projet a pour sujet le module de ressources humaines de SAP. J'ai été accompagné pendant tout le long de la réalisation par mon chef de projet, c'est également cette personne qui m'a permis de m'introduire proprement à Integration Suite.</p>
+      <p>On doit créer des employés (leur créer des identifiants pour se connecter, des entrées de données correspondant à leur noms, prénom, adresse etc…) donc ce projet a pour sujet le module de ressources humaines de SAP. <br></br>J'ai été accompagné pendant tout le long de la réalisation par mon chef de projet, c'est également cette personne qui m'a permis de m'introduire proprement à Integration Suite.</p>
     ),
     explanation: (
       <>
