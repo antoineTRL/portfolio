@@ -10,7 +10,7 @@ const About: React.FC = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden mx-auto border-4 border-blue-600 dark:border-blue-400">
                 {/* Profile image - replace with your own image */}
                 <img 
-                  src="../../dist/assets/photopro.jpg" 
+                  src="https://i.imgur.com/PU46mLM.jpg" 
                   alt="Portrait professionnel" 
                   className="w-full h-full object-cover"
                 />
