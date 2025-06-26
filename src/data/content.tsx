@@ -329,7 +329,7 @@ export const achievements: ProjectArticle[] = [
       </>
     ),
     results: (
-      <p>Je suis à travers ce flux l'évolution totale des données et de ce qu'on en fait. J'ai grâce à ce travail pu mieux comprendre les mécaniques et les fonctionnements du module de RH de SAP. J'ai adoré jouer avec les données, de manipuler ces dernières avec une interface SAP qui (pour une fois) est satisfaisante à utiliser, simple et intuitive. Cette réalisation comme vu précédemment a pu également compléter mon apprentissage dans un nouveau module SAP (RH) et j'ai pu apprendre de nouvelles choses en ABAP.</p>
+      <p>Je suis à travers ce flux l'évolution totale des données et de ce qu'on en fait. J'ai grâce à ce travail pu mieux comprendre les mécaniques et les fonctionnements du module de RH de SAP. J'ai adoré jouer avec les données, de manipuler ces dernières avec une interface SAP qui (pour une fois) est satisfaisante à utiliser, simple et intuitive.<br></br><br></br> Cette réalisation comme vu précédemment a pu également compléter mon apprentissage dans un nouveau module SAP (RH) et j'ai pu apprendre de nouvelles choses en ABAP.</p>
     )
   },
   {
