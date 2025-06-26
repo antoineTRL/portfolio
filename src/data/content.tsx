@@ -272,7 +272,7 @@ export const transversalSkills: SkillArticle[] = [
     ),
     presentation: (
       <>
-        <p>Au-delà de l'aspect technique, la maîtrise de l'anglais à l'écrit comme à l'oral me permet de participer à des projets d'envergure internationale. Dans une ESN, cette compétence devient un réel facteur différenciant. Elle permet de ne pas être cantonné à un rôle d'exécutant, mais d'évoluer en tant que consultant. Un consultant ne se contente pas de mettre en œuvre des solutions : il participe activement à leur conception, interagit avec des clients étrangers et contribue aux décisions stratégiques du projet.</p>
+        <p>Au-delà de l'aspect technique, la maîtrise de l'anglais à l'écrit comme à l'oral me permet de participer à des projets d'envergure internationale. Dans une ESN, cette compétence devient un réel facteur différenciant. Elle permet de ne pas être cantonné à un rôle d'exécutant, mais d'évoluer en tant que consultant. Un consultant ne se contente pas de mettre en œuvre des solutions : il participe activement à leur conception, interagit avec des clients étrangers et contribue aux décisions stratégiques du projet.</p><br></br>
         <p>Ce positionnement nécessite une confiance mutuelle entre le consultant et l'entreprise. La capacité à s'exprimer et à comprendre les enjeux dans une autre langue devient alors un véritable levier de progression dans une carrière.</p>
       </>
     ),
