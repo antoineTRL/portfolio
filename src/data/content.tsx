@@ -343,7 +343,7 @@ export const achievements: ProjectArticle[] = [
       <p>Cette section de mon portfolio a pour objectif de mettre en lumière à la fois une compétence technique et humaine, à travers la réalisation du projet ATC mené au cours de mon stage chez Augusta Reeves. Ce projet portait sur la migration d'un système SAP ECC vers S/4HANA pour le client Eramet, avec pour mission principale l'adaptation de programmes ABAP à la nouvelle version de SAP.</p>
     ),
     implementationContext: (
-      <p>Dans le cadre de ma 3e année de Licence Professionnelle à l'IUT de Paris Cité, j'ai effectué un stage du 2 mai au 31 juillet 2023 au sein de la société Augusta Reeves, PME spécialisée dans l'intégration de solutions SAP. J'étais chargé de développer, corriger et améliorer des programmes ABAP, un langage que je découvrais pour la première fois.</p>
+      <p>Dans le cadre de ma 3e année de Licence Professionnelle à l'IUT de Paris Cité, j'ai effectué un stage du 2 mai au 31 juillet 2023 au sein de la société Augusta Reeves, PME spécialisée dans l'intégration de solutions SAP. <br></br>J'étais chargé de développer, corriger et améliorer des programmes ABAP, un langage que je découvrais pour la première fois.</p>
     ),
     clientContext: (
       <p>Le client concerné, Eramet, utilisait la version ECC (ERP Central Component) de SAP, datant de 2006. Cette version, maintenue par SAP jusqu'en 2030, devenait progressivement obsolète et ne permettait pas de tirer parti des innovations modernes du système SAP, notamment l'ouverture au développement Web via Fiori. Eramet souhaitait donc migrer vers S/4HANA, une version moderne offrant de meilleures performances, une meilleure ergonomie et une plus grande flexibilité (on-premise, cloud ou hybride).</p>
