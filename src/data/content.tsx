@@ -61,10 +61,10 @@ export const technicalSkills: SkillArticle[] = [
       <p>Dans le cadre d'un projet d'intégration entre la plateforme Boomi et SAP S/4HANA, j'ai développé une BAPI spécifique nommée ZBAPI_CREATE_EMPLOYEE. Cette BAPI a pour but d'automatiser la création complète de profils employés dans le module SAP HCM, en intégration avec SAP CPI (SAP Integration Suite).</p>
     ),
     implementationContext: (
-      <p>Cette mission m'a été confiée lors d'un projet d'intégration où les données RH des nouveaux collaborateurs étaient initialement saisies manuellement dans SAP. Le but était de fluidifier et fiabiliser ce processus en le rendant entièrement automatisé via un échange de données entre Boomi (source) et SAP (destination), en passant par CPI.</p>
+      <p>Cette mission m'a été confiée lors d'un projet d'intégration où les données RH des nouveaux collaborateurs étaient initialement saisies manuellement dans SAP. <br></br>Le but était de fluidifier et fiabiliser ce processus en le rendant entièrement automatisé via un échange de données entre Boomi (source) et SAP (destination), en passant par CPI.</p>
     ),
     clientContext: (
-      <p>Le client souhaitait centraliser et sécuriser la création de nouveaux employés dans SAP HCM. Les données sources étaient collectées et préparées dans Boomi, puis transmises via des iFlows CPI. Il était donc nécessaire de développer une BAPI SAP capable de consommer ces données, d'orchestrer la création des infotypes nécessaires, de générer un compte utilisateur SAP et de synchroniser les informations RH avec le Business Partner SAP.</p>
+      <p>Le client souhaitait centraliser et sécuriser la création de nouveaux employés dans SAP HCM. Les données sources étaient collectées et préparées dans Boomi, puis transmises via des iFlows CPI. <br></br>Il était donc nécessaire de développer une BAPI SAP capable de consommer ces données, d'orchestrer la création des infotypes nécessaires, de générer un compte utilisateur SAP et de synchroniser les informations RH avec le Business Partner SAP.</p>
     ),
     objective: (
       <>
