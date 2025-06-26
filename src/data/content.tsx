@@ -286,7 +286,7 @@ export const transversalSkills: SkillArticle[] = [
       </>
     ),
     results: (
-      <p>L'anglais s'est imposé comme un pilier de mon développement professionnel. Il ne s'agit pas uniquement de lire ou de comprendre, mais de pouvoir contribuer, collaborer et s'exprimer avec aisance dans un contexte international. Dans l'univers du développement informatique et, plus particulièrement, dans l'écosystème SAP, cette langue devient un outil aussi essentiel que n'importe quel langage de programmation. Elle permet d'évoluer, de rester à jour, d'ouvrir des portes et de jouer un rôle actif dans la réussite des projets. En définitive, parler anglais ne relève plus du choix : c'est une composante structurelle du métier de développeur et de consultant.</p>
+      <p>L'anglais s'est imposé comme un pilier de mon développement professionnel. Il ne s'agit pas uniquement de lire ou de comprendre, mais de pouvoir contribuer, collaborer et s'exprimer avec aisance dans un contexte international. Dans l'univers du développement informatique et, plus particulièrement, dans l'écosystème SAP, cette langue devient un outil aussi essentiel que n'importe quel langage de programmation. Elle permet d'évoluer, de rester à jour, d'ouvrir des portes et de jouer un rôle actif dans la réussite des projets. <br></br><br></br>En définitive, parler anglais ne relève plus du choix : c'est une composante structurelle du métier de développeur et de consultant.</p>
     )
   }
 ];
