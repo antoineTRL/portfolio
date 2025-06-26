@@ -394,7 +394,7 @@ export const achievements: ProjectArticle[] = [
       <p>Cette mission s'est déroulée dans un contexte tendu : j'ai été convoqué pour une tâche à livrer sous deux jours, mais en parallèle, un problème de staffing m'a fait hériter d'une seconde mission également urgente. <br></br>Deux managers, deux projets différents, mais une seule date de rendu. Pour répondre à cette double exigence, j'ai jonglé entre les deux projets tout en formant un collègue pour déléguer une partie de la charge.</p>
     ),
     clientContext: (
-      <p>Le premier projet concernait un client en phase d'avant-vente, à qui nous devions présenter une maquette attractive d'un site SAP Fiori simulant leur futur environnement. Il s'agissait de convaincre, visuellement et fonctionnellement, de la pertinence de la solution SAP. <br></br>Le second projet portait sur un autre client pour lequel il fallait copier des éléments d'un environnement SAP qualité vers la production (notamment les Partner Profiles), ce qui impliquait une forte vigilance technique.</p>
+      <p>Le premier projet concernait un client en phase d'avant-vente, à qui nous devions présenter une maquette attractive d'un site SAP Fiori simulant leur futur environnement. Il s'agissait de convaincre, visuellement et fonctionnellement, de la pertinence de la solution SAP. <br></br><br></br>Le second projet portait sur un autre client pour lequel il fallait copier des éléments d'un environnement SAP qualité vers la production (notamment les Partner Profiles), ce qui impliquait une forte vigilance technique.</p>
     ),
     objective: (
       <>
