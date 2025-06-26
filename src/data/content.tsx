@@ -161,26 +161,26 @@ export const technicalSkills: SkillArticle[] = [
 export const transversalSkills: SkillArticle[] = [
   {
     id: 'project-management',
-    title: 'Entre l\'autonomie et la collaboration',
+    title: 'Entre l\'indépendance et la collaboration',
     description: 'Organisation et coordination efficace des ressources et des équipes pour atteindre les objectifs du projet.',
     icon: <Users size={24} />,
     overview: (
-      <p>À travers cette section de mon portfolio, j'ai souhaité mettre en lumière une compétence transversale essentielle à mes yeux, que j'ai développée au fil de mes expériences professionnelles : celle de savoir équilibrer autonomie et recours à l'aide. <br></br>Cette capacité, souvent sous-estimée, s'avère pourtant déterminante dans un environnement exigeant comme celui du développement informatique. <br></br>Mon intention ici est double : d'abord, définir cette compétence avec mes propres mots, à partir de mes expériences concrètes ; ensuite, illustrer comment elle s'est progressivement affirmée au fil de projets variés, dans des contextes allant de la découverte du monde professionnel jusqu'à des environnements plus techniques et exigeants.</p>
+      <p>À travers cette section de mon portfolio, j'ai souhaité mettre en lumière une compétence transversale essentielle à mes yeux, que j'ai développée au fil de mes expériences professionnelles : celle de savoir équilibrer l'indépendance et recours à l'aide. <br></br>Cette capacité, souvent sous-estimée, s'avère pourtant déterminante dans un environnement exigeant comme celui du développement informatique. <br></br>Mon intention ici est double : d'abord, définir cette compétence avec mes propres mots, à partir de mes expériences concrètes ; ensuite, illustrer comment elle s'est progressivement affirmée au fil de projets variés, dans des contextes allant de la découverte du monde professionnel jusqu'à des environnements plus techniques et exigeants.</p>
     ),
     implementationContext: (
       <p>Cette compétence s'est développée progressivement à travers mes différentes expériences professionnelles, depuis mon premier stage jusqu'aux projets les plus complexes en entreprise.</p>
     ),
     clientContext: (
-      <p>Dans un environnement professionnel où les délais sont serrés et les enjeux importants, savoir équilibrer autonomie et collaboration devient crucial pour la réussite des projets.</p>
+      <p>Dans un environnement professionnel où les délais sont serrés et les enjeux importants, savoir équilibrer indépendance et collaboration devient crucial pour la réussite des projets.</p>
     ),
     objective: (
-      <p>Développer une capacité à juger efficacement quand travailler en autonomie et quand solliciter de l'aide, afin d'optimiser la productivité tout en maintenant la qualité du travail.</p>
+      <p>Développer une capacité à juger efficacement quand travailler en indépendance et quand solliciter de l'aide, afin d'optimiser la productivité tout en maintenant la qualité du travail.</p>
     ),
     challenges: (
       <p>Apprendre à surmonter la peur de demander de l'aide tout en développant une réelle autonomie technique et décisionnelle.</p>
     ),
     risks: (
-      <p>Rester bloqué trop longtemps sur un problème par excès d'autonomie, ou à l'inverse, déranger constamment les collègues par manque de confiance en soi.</p>
+      <p>Rester bloqué trop longtemps sur un problème par excès d'indépendance, ou à l'inverse, déranger constamment les collègues par manque de confiance en soi.</p>
     ),
     presentation: (
       <>
