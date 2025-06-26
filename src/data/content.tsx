@@ -398,21 +398,21 @@ export const achievements: ProjectArticle[] = [
     ),
     objective: (
       <>
-        <p>Pour la maquette Fiori : livrer en moins de 1,5 jour une maquette esthétique et fidèle au site d'origine, en assurant deux fonctionnalités interactives (ex. calculs de devis par type de chantier).</p>
+        <p>Pour la maquette Fiori : livrer en moins de 1,5 jour une maquette esthétique et fidèle au site d'origine, en assurant deux fonctionnalités interactives (ex. calculs de devis par type de chantier).</p><br></br>
         <p>Pour la seconde tâche : réaliser une copie à l'identique, sans perte de données, entre deux environnements SAP, et former un collègue à la manipuler en production.</p>
       </>
     ),
     challenges: (
       <>
-        <p>Réussir une démonstration convaincante dans un contexte d'avant-vente. Une maquette peu soignée aurait pu compromettre la signature du client.</p>
-        <p>Respecter les délais sur deux projets critiques.</p>
+        <p>Réussir une démonstration convaincante dans un contexte d'avant-vente. Une maquette peu soignée aurait pu compromettre la signature du client.</p><br></br>
+        <p>Respecter les délais sur deux projets critiques.</p><br></br>
         <p>Transmettre clairement le savoir technique à un collègue sur une opération sensible, en un temps très court.</p>
       </>
     ),
     risks: (
       <>
-        <p>Manque de maîtrise complète de la technologie Fiori, car encore en phase d'apprentissage.</p>
-        <p>Formation incomplète ou mal structurée de mon collègue, pouvant entraîner des erreurs en production.</p>
+        <p>Manque de maîtrise complète de la technologie Fiori, car encore en phase d'apprentissage.</p><br></br>
+        <p>Formation incomplète ou mal structurée de mon collègue, pouvant entraîner des erreurs en production.</p><br></br>
         <p>Stress lié au temps, à la pression croisée des deux managers, et à la responsabilité directe sur deux livrables simultanés.</p>
       </>
     ),
@@ -431,11 +431,11 @@ export const achievements: ProjectArticle[] = [
       </>
     ),
     explanation: (
-      <p>Une maquette Fiori est une simulation visuelle interactive d'un site métier hébergé dans SAP. Dans le cadre d'une avant-vente, elle doit refléter le plus fidèlement possible l'environnement final pour que le client se projette. Les Partner Profiles en SAP sont des objets critiques liés à l'échange de données inter-systèmes ; leur copie en production nécessite précision et rigueur, car une erreur peut bloquer des flux métiers.</p>
+      <p>Une maquette Fiori est une simulation visuelle interactive d'un site métier hébergé dans SAP. Dans le cadre d'une avant-vente, elle doit refléter le plus fidèlement possible l'environnement final pour que le client se projette. <br></br>Les Partner Profiles en SAP sont des objets critiques liés à l'échange de données inter-systèmes ; leur copie en production nécessite précision et rigueur, car une erreur peut bloquer des flux métiers.</p>
     ),
     results: (
       <>
-        <p>J'ai assisté à la présentation client où j'ai dû guider mon collègue afin qu'il ne montre que les fonctionnalités finalisées. Bien que je n'aie pas reçu de retour formel, aucun problème n'a été signalé — mission réussie. Quant à la seconde tâche, elle a été correctement exécutée par mon collègue après ma formation, preuve que le transfert de compétence a été efficace.</p>
+        <p>J'ai assisté à la présentation client où j'ai dû guider mon collègue afin qu'il ne montre que les fonctionnalités finalisées. Bien que je n'aie pas reçu de retour formel, aucun problème n'a été signalé — mission réussie. Quant à la seconde tâche, elle a été correctement exécutée par mon collègue après ma formation, preuve que le transfert de compétence a été efficace.</p><br></br>
         <p>Cette expérience m'a motivé à approfondir SAP Fiori, technologie prometteuse que j'ai à peine eu le temps d'explorer. Le stress de la situation a été formateur, notamment sur la gestion des priorités et la transmission claire d'un savoir. En revanche, la seconde tâche, bien que importante, m'a semblé peu valorisante techniquement. Néanmoins, elle m'a permis de prendre conscience de la responsabilité associée à la formation, même dans l'urgence.</p>
       </>
     )
