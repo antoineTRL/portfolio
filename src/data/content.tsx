@@ -367,7 +367,7 @@ export const achievements: ProjectArticle[] = [
       </>
     ),
     presentation: (
-      <p>Le projet ATC (ABAP Test Cockpit) consistait à analyser les erreurs générées par l'outil de test suite à la migration vers S/4HANA. Ces erreurs couvraient des points techniques variés : utilisation de tables obsolètes (ex. KONV remplacée par V_KONV), nécessité d'adopter la nouvelle syntaxe ABAP, erreurs d'affectation de types, etc. Le cœur de notre travail résidait dans la compréhension fine du code existant pour évaluer si une correction était nécessaire, ou si le programme pouvait fonctionner tel quel via l'ajout de pragmas.</p>
+      <p>Le projet ATC (ABAP Test Cockpit) consistait à analyser les erreurs générées par l'outil de test suite à la migration vers S/4HANA. Ces erreurs couvraient des points techniques variés : utilisation de tables obsolètes (ex. KONV remplacée par V_KONV), nécessité d'adopter la nouvelle syntaxe ABAP, erreurs d'affectation de types, etc. <br></br>Le cœur de notre travail résidait dans la compréhension fine du code existant pour évaluer si une correction était nécessaire, ou si le programme pouvait fonctionner tel quel via l'ajout de pragmas.</p>
     ),
     explanation: (
       <p>Prenons un exemple simple : un champ de 52 caractères est affecté à une structure complète. Ce type de message pourrait être interprété comme une erreur, alors qu'en réalité, le total des longueurs des champs de la structure correspond bien à 52 caractères. Autre exemple : certaines anciennes tables SAP sont devenues obsolètes et remplacées par des vues CDS. Cela nécessite non seulement un changement de source de données, mais aussi l'utilisation d'une nouvelle syntaxe.</p>
