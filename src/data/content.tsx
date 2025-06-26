@@ -304,7 +304,7 @@ export const achievements: ProjectArticle[] = [
       <p>Cette partie va parler de ma première réalisation sur le middleware SAP CPI. Ce travail est particulièrement intéressant car c'est suite à ce dernier que j'ai découvert que c'est cette technologie dans laquelle je veux continuer de travailler.</p>
     ),
     implementationContext: (
-      <p>C'est en deuxième année que j'ai pu enfin avoir eu le droit de commencer un projet en SAP Integration Suite (Cloud Platform Integration). J'avais eu le droit à une formation professionnelle de 1 jour dans mon entreprise. Cette formation n'avait pu que me présenter ce qu'était cette technologie sans pour autant proposer de réalisation. <br></br>Un jour de formation est à mon goût est vraiment trop peu.</p>
+      <p>C'est en deuxième année que j'ai pu enfin avoir eu le droit de commencer un projet en SAP Integration Suite (Cloud Platform Integration). <br></br>J'avais eu le droit à une formation professionnelle de 1 jour dans mon entreprise. Cette formation n'avait pu que me présenter ce qu'était cette technologie sans pour autant proposer de réalisation. <br></br>Un jour de formation est à mon goût est vraiment trop peu.</p>
     ),
     clientContext: (
       <p>SOCOTEC est une entreprise spécialisée dans le contrôle technique, l'inspection, la certification et la gestion des risques pour garantir la sécurité et la conformité des bâtiments, infrastructures et installations industrielles. L'entreprise souhaite transposer ses employés de leur environnement actuel vers leur système SAP S/4HANA.</p>
