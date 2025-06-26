@@ -242,7 +242,7 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                     <div className="my-8">
                         <div className="relative overflow-hidden rounded-lg shadow-lg">
                           <img 
-                            src="../../dist/assets/diagrammesequence.png" 
+                            src="https://i.imgur.com/jEkjyj2.png" 
                             alt="Diagramme" 
                             //className="w-full h-64 md:h-80 object-cover"
                           />
@@ -267,7 +267,7 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                       <div className="my-8">
                         <div className="relative overflow-hidden rounded-lg shadow-lg">
                           <img 
-                            src="../../dist/assets/schemaCPI.png" 
+                            src="https://i.imgur.com/vZie86n.png" 
                             alt="flux SAP CPI" 
                             //className="w-full h-64 md:h-80 object-cover"
                           />
