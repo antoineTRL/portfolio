@@ -316,7 +316,7 @@ export const achievements: ProjectArticle[] = [
       <p>Le défi majeur de ce projet réside dans la fiabilité et l'exhaustivité de la transmission des données : Aucune perte de données ne doit être tolérée lors de la migration. <br></br>En cas d'échec, le système doit être capable d'envoyer un message d'erreur clair et détaillé facilitant la compréhension du problème.</p>
     ),
     risks: (
-      <p>L'intégration des données ne devra pas comporter d'erreur de mapping (comme une mauvaise correspondance entre les champs des deux systèmes) ou ne devra pas comporter de réutilisation de données déjà existantes sur le système S/4HANA.</p>
+      <p>L'intégration des données ne devra pas comporter d'erreur de mapping (comme une mauvaise correspondance entre les champs des deux systèmes) <br></br>ou ne devra pas comporter de réutilisation de données déjà existantes sur le système S/4HANA.</p>
     ),
     presentation: (
       <p>On doit créer des employés (leur créer des identifiants pour se connecter, des entrées de données correspondant à leur noms, prénom, adresse etc…) donc ce projet a pour sujet le module de ressources humaines de SAP. J'ai été accompagné pendant tout le long de la réalisation par mon chef de projet, c'est également cette personne qui m'a permis de m'introduire proprement à Integration Suite.</p>
