@@ -237,7 +237,7 @@ export const transversalSkills: SkillArticle[] = [
     ),
     explanation: (
       <>
-        <p><strong>Une vision d'ensemble sur le monde informatique -</strong> Mon parcours m'a permis d'explorer une large variété de domaines informatiques. En BTS, j'ai manipulé des langages comme le C et le C++, tout en m'initiant aux bases du réseau. Ce socle généraliste m'a donné une bonne vision d'ensemble du monde informatique et m'a permis de mieux orienter mes choix professionnels. Par la suite, ma licence professionnelle et mon master m'ont offert l'opportunité de découvrir de nouveaux environnements comme le développement web et les bases de données. À chaque étape, l'adaptation était nécessaire : nouveaux langages, nouvelles logiques, nouvelles attentes.</p>
+        <p><strong>Une vision d'ensemble sur le monde informatique -</strong><br></br> Mon parcours m'a permis d'explorer une large variété de domaines informatiques. En BTS, j'ai manipulé des langages comme le C et le C++, tout en m'initiant aux bases du réseau. Ce socle généraliste m'a donné une bonne vision d'ensemble du monde informatique et m'a permis de mieux orienter mes choix professionnels. Par la suite, ma licence professionnelle et mon master m'ont offert l'opportunité de découvrir de nouveaux environnements comme le développement web et les bases de données. À chaque étape, l'adaptation était nécessaire : nouveaux langages, nouvelles logiques, nouvelles attentes.</p>
       </>
     ),
     results: (
