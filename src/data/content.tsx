@@ -307,13 +307,13 @@ export const achievements: ProjectArticle[] = [
       <p>C'est en deuxième année que j'ai pu enfin avoir eu le droit de commencer un projet en SAP Integration Suite (Cloud Platform Integration). <br></br>J'avais eu le droit à une formation professionnelle de 1 jour dans mon entreprise. Cette formation n'avait pu que me présenter ce qu'était cette technologie sans pour autant proposer de réalisation. <br></br>Un jour de formation est à mon goût est vraiment trop peu.</p>
     ),
     clientContext: (
-      <p>SOCOTEC est une entreprise spécialisée dans le contrôle technique, l'inspection, la certification et la gestion des risques pour garantir la sécurité et la conformité des bâtiments, infrastructures et installations industrielles. L'entreprise souhaite transposer ses employés de leur environnement actuel vers leur système SAP S/4HANA.</p>
+      <p>SOCOTEC est une entreprise spécialisée dans le contrôle technique, l'inspection, la certification et la gestion des risques pour garantir la sécurité et la conformité des bâtiments, infrastructures et installations industrielles. <br></br>L'entreprise souhaite transposer ses employés de leur environnement actuel vers leur système SAP S/4HANA.</p>
     ),
     objective: (
       <p>L'objectif ici est donc de recevoir des informations concernant les employés de SOCOTEC et suite à ces informations créer un profil employé sur leur environnement S/4HANA.</p>
     ),
     challenges: (
-      <p>Le défi majeur de ce projet réside dans la fiabilité et l'exhaustivité de la transmission des données : Aucune perte de données ne doit être tolérée lors de la migration. En cas d'échec, le système doit être capable d'envoyer un message d'erreur clair et détaillé facilitant la compréhension du problème.</p>
+      <p>Le défi majeur de ce projet réside dans la fiabilité et l'exhaustivité de la transmission des données : Aucune perte de données ne doit être tolérée lors de la migration. <br></br>En cas d'échec, le système doit être capable d'envoyer un message d'erreur clair et détaillé facilitant la compréhension du problème.</p>
     ),
     risks: (
       <p>L'intégration des données ne devra pas comporter d'erreur de mapping (comme une mauvaise correspondance entre les champs des deux systèmes) ou ne devra pas comporter de réutilisation de données déjà existantes sur le système S/4HANA.</p>
