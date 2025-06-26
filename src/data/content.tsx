@@ -340,7 +340,7 @@ export const achievements: ProjectArticle[] = [
     category: 'ABAP',
     pitch: 'Première réalisation chez SAP',
     overview: (
-      <p>Cette première section de mon portfolio a pour objectif de mettre en lumière à la fois une compétence technique et humaine, à travers la réalisation du projet ATC mené au cours de mon stage chez Augusta Reeves. Ce projet portait sur la migration d'un système SAP ECC vers S/4HANA pour le client Eramet, avec pour mission principale l'adaptation de programmes ABAP à la nouvelle version de SAP.</p>
+      <p>Cette section de mon portfolio a pour objectif de mettre en lumière à la fois une compétence technique et humaine, à travers la réalisation du projet ATC mené au cours de mon stage chez Augusta Reeves. Ce projet portait sur la migration d'un système SAP ECC vers S/4HANA pour le client Eramet, avec pour mission principale l'adaptation de programmes ABAP à la nouvelle version de SAP.</p>
     ),
     implementationContext: (
       <p>Dans le cadre de ma 3e année de Licence Professionnelle à l'IUT de Paris Cité, j'ai effectué un stage du 2 mai au 31 juillet 2023 au sein de la société Augusta Reeves, PME spécialisée dans l'intégration de solutions SAP. J'étais chargé de développer, corriger et améliorer des programmes ABAP, un langage que je découvrais pour la première fois.</p>
