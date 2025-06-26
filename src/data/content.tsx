@@ -346,10 +346,10 @@ export const achievements: ProjectArticle[] = [
       <p>Dans le cadre de ma 3e année de Licence Professionnelle à l'IUT de Paris Cité, j'ai effectué un stage du 2 mai au 31 juillet 2023 au sein de la société Augusta Reeves, PME spécialisée dans l'intégration de solutions SAP. <br></br>J'étais chargé de développer, corriger et améliorer des programmes ABAP, un langage que je découvrais pour la première fois.</p>
     ),
     clientContext: (
-      <p>Le client concerné, Eramet, utilisait la version ECC (ERP Central Component) de SAP, datant de 2006. Cette version, maintenue par SAP jusqu'en 2030, devenait progressivement obsolète et ne permettait pas de tirer parti des innovations modernes du système SAP, notamment l'ouverture au développement Web via Fiori. Eramet souhaitait donc migrer vers S/4HANA, une version moderne offrant de meilleures performances, une meilleure ergonomie et une plus grande flexibilité (on-premise, cloud ou hybride).</p>
+      <p>Le client concerné, Eramet, utilisait la version ECC (ERP Central Component) de SAP, datant de 2006. Cette version, maintenue par SAP jusqu'en 2030, devenait progressivement obsolète et ne permettait pas de tirer parti des innovations modernes du système SAP, notamment l'ouverture au développement Web via Fiori. <br></br>Eramet souhaitait donc migrer vers S/4HANA, une version moderne offrant de meilleures performances, une meilleure ergonomie et une plus grande flexibilité (on-premise, cloud ou hybride).</p>
     ),
     objective: (
-      <p>Notre objectif était de rendre le code des programmes ABAP compatibles avec la nouvelle version S/4HANA, en traitant l'ensemble des erreurs relevées par l'outil ATC (ABAP Test Cockpit). Cette tâche impliquait de corriger les incompatibilités de syntaxe et d'architecture logicielle induites par la migration.</p>
+      <p>Notre objectif était de rendre le code des programmes ABAP compatibles avec la nouvelle version S/4HANA, en traitant l'ensemble des erreurs relevées par l'outil ATC (ABAP Test Cockpit). <br></br>Cette tâche impliquait de corriger les incompatibilités de syntaxe et d'architecture logicielle induites par la migration.</p>
     ),
     challenges: (
       <>
