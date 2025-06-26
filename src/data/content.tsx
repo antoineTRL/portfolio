@@ -32,7 +32,7 @@ export const technicalSkills: SkillArticle[] = [
       <p>La mission consistait à recréer l'interface de la page d'accueil du site ciblé tout en implémentant au moins deux fonctionnalités représentatives du parcours utilisateur. <br></br>Il s'agissait d'assurer une démonstration fluide, visuellement convaincante et suffisamment représentative des cas d'usage réels. Le tout devait être livré dans un délai extrêmement restreint, avec une exigence élevée sur la qualité visuelle.</p>
     ),
     challenges: (
-      <p>L'enjeu principal était d'ordre stratégique. <br></br>Il fallait présenter SAP Fiori sous son meilleur jour, malgré une maîtrise encore incomplète de la technologie. Le livrable devait susciter l'adhésion du client et incarner la promesse d'une transformation digitale réussie via SAP, sans laisser entrevoir les limitations techniques du prototype.</p>
+      <p>L'enjeu principal était d'ordre stratégique. <br></br>Il fallait présenter SAP Fiori sous son meilleur jour, malgré une maîtrise encore incomplète de la technologie. <br></br>Le livrable devait susciter l'adhésion du client et incarner la promesse d'une transformation digitale réussie via SAP, sans laisser entrevoir les limitations techniques du prototype.</p>
     ),
     risks: (
       <p>Le principal risque tenait à mon manque d'expérience sur SAP UI5 au moment de la mission. <br></br>Un autre point de vigilance concernait la gestion du stress et la capacité à livrer un résultat professionnel dans un contexte de forte pression. <br></br>Enfin, une tentative de démonstration trop ambitieuse aurait pu fragiliser l'ensemble du projet si certaines parties de l'interface s'étaient révélées instables ou incomplètes.</p>
