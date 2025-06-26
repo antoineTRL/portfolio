@@ -17,7 +17,7 @@ export const technicalSkills: SkillArticle[] = [
   {
     id: 'frontend-development',
     title: 'Développement Front End',
-    description: 'Concevoir une maquette client sur SAP Fiori dans un contexte d'avant-vente',
+    description: 'Concevoir une maquette client sur SAP Fiori dans un contexte d\'avant-vente',
     icon: <Layout size={24} />,
     overview: (
       <p>Concevoir une interface utilisateur ergonomique, esthétique et fonctionnelle dans un environnement SAP, notamment avec SAP Fiori, est une compétence stratégique. Elle mobilise à la fois des connaissances techniques (framework UI5, principes MVC, composants dynamiques) et une capacité à répondre à des enjeux commerciaux, en particulier dans les phases d'avant-vente.</p>
@@ -161,7 +161,7 @@ export const technicalSkills: SkillArticle[] = [
 export const transversalSkills: SkillArticle[] = [
   {
     id: 'project-management',
-    title: 'Entre l'autonomie et la collaboration',
+    title: 'Entre l\'autonomie et la collaboration',
     description: 'Organisation et coordination efficace des ressources et des équipes pour atteindre les objectifs du projet.',
     icon: <Users size={24} />,
     overview: (
@@ -207,7 +207,7 @@ export const transversalSkills: SkillArticle[] = [
   },
   {
     id: 'communication',
-    title: 'L'Adaptation comme Habitude',
+    title: 'L\'Adaptation comme Habitude',
     description: 'Capacité à expliquer clairement des concepts techniques complexes à des publics variés.',
     icon: <MessageSquare size={24} />,
     overview: (
@@ -296,7 +296,7 @@ export const achievements: ProjectArticle[] = [
   {
     id: 'e-commerce-platform',
     title: 'Premiers pas avec SAP CPI',
-    description: 'Comprendre l'intégration cloud de SAP',
+    description: 'Comprendre l\'intégration cloud de SAP',
     image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     category: 'mapping de données',
     pitch: 'Première réalisation sur le middleware SAP CPI',
@@ -334,8 +334,8 @@ export const achievements: ProjectArticle[] = [
   },
   {
     id: 'SAP ABAP',
-    title: 'Naviguer dans l'univers SAP',
-    description: 'Mon Projet d'Initiation',
+    title: 'Naviguer dans l\'univers SAP',
+    description: 'Mon Projet d\'Initiation',
     image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     category: 'ABAP',
     pitch: 'Première réalisation chez SAP',
@@ -376,7 +376,7 @@ export const achievements: ProjectArticle[] = [
       <>
         <p>À la fin du stage, l'ensemble des erreurs détectées par l'ATC ont été traitées par notre équipe de huit personnes.</p>
         <p><strong>Compétences humaines:</strong> Ce projet m'a permis de développer ma capacité à collaborer, à poser les bonnes questions et à savoir quand demander de l'aide, compétence essentielle dans un environnement aussi vaste que SAP.</p>
-        <p><strong>Compétences techniques:</strong> J'ai acquis une solide base en ABAP, appris à naviguer dans l'écosystème SAP, et compris les enjeux de la migration vers S/4HANA. Ce projet a constitué une première immersion complète dans l'univers SAP, avec une courbe d'apprentissage enrichissante.</p>
+        <p><strong>Compétences techniques:</strong> J'ai acquis une solide base en ABAP, appris à naviguer dans l'écosystème SAP, et compris les enjeux de la migration vers S/4HANA. Ce projet a constitué une première immersion complète dans l'univers SAP, avec une courbe d\'apprentissage enrichissante.</p>
       </>
     )
   },
