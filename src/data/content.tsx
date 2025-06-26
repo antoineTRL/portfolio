@@ -242,7 +242,7 @@ export const transversalSkills: SkillArticle[] = [
     ),
     results: (
       <>
-        <p>Aujourd'hui, je suis convaincu que cette capacité d'adaptation est une condition sine qua non pour devenir un bon expert en ingénierie. Le monde informatique évolue sans cesse, et la seule manière d'y trouver sa place durablement est de s'ajuster continuellement, sans pour autant repartir de zéro à chaque nouveauté. J'ai pu constater que l'adaptation, bien qu'exigeante au départ, devient plus fluide avec l'expérience.</p>
+        <p>Aujourd'hui, je suis convaincu que cette capacité d'adaptation est une condition sine qua non pour devenir un bon expert en ingénierie. Le monde informatique évolue sans cesse, et la seule manière d'y trouver sa place durablement est de s'ajuster continuellement, sans pour autant repartir de zéro à chaque nouveauté. J'ai pu constater que l'adaptation, bien qu'exigeante au départ, devient plus fluide avec l'expérience.</p><br></br>
         <p>Par exemple, mon apprentissage actuel du développement SAP Fiori ne représente pas un obstacle insurmontable. Le langage UI5, bien qu'il possède ses spécificités, repose en grande partie sur des concepts proches de ceux du JavaScript — un langage que je maîtrise déjà. Cette continuité rend l'effort d'adaptation plus rapide, plus ciblé. C'est cette compréhension — que les nouvelles technologies s'inscrivent généralement dans une lignée existante — qui me permet aujourd'hui de dire que le plus difficile est déjà derrière moi. L'essentiel, désormais, est de rester curieux, rigoureux, et prêt à ajuster mes méthodes pour continuer à progresser.</p>
       </>
     )
