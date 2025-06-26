@@ -374,8 +374,8 @@ export const achievements: ProjectArticle[] = [
     ),
     results: (
       <>
-        <p>À la fin du stage, l'ensemble des erreurs détectées par l'ATC ont été traitées par notre équipe de huit personnes.</p>
-        <p><strong>Compétences humaines:</strong> Ce projet m'a permis de développer ma capacité à collaborer, à poser les bonnes questions et à savoir quand demander de l'aide, compétence essentielle dans un environnement aussi vaste que SAP.</p>
+        <p>À la fin du stage, l'ensemble des erreurs détectées par l'ATC ont été traitées par notre équipe de huit personnes.</p><br></br>
+        <p><strong>Compétences humaines:</strong> Ce projet m'a permis de développer ma capacité à collaborer, à poser les bonnes questions et à savoir quand demander de l'aide, compétence essentielle dans un environnement aussi vaste que SAP.</p><br></br>
         <p><strong>Compétences techniques:</strong> J'ai acquis une solide base en ABAP, appris à naviguer dans l'écosystème SAP, et compris les enjeux de la migration vers S/4HANA. Ce projet a constitué une première immersion complète dans l'univers SAP, avec une courbe d\'apprentissage enrichissante.</p>
       </>
     )
