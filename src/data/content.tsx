@@ -23,7 +23,7 @@ export const technicalSkills: SkillArticle[] = [
       <p>Concevoir une interface utilisateur ergonomique, esthétique et fonctionnelle dans un environnement SAP, notamment avec SAP Fiori, est une compétence stratégique. Elle mobilise à la fois des connaissances techniques (framework UI5, principes MVC, composants dynamiques) et une capacité à répondre à des enjeux commerciaux, en particulier dans les phases d'avant-vente.</p>
     ),
     implementationContext: (
-      <p>Dans le cadre d'une démonstration à livrer en urgence pour un client, il m'a été demandé de concevoir une maquette Fiori simulant un site existant afin d'illustrer le fonctionnement de SAP dans un contexte métier réaliste. Ce projet, à fort enjeu stratégique, devait être livré en seulement deux jours, en parallèle d'une autre mission.</p>
+      <p>Dans le cadre d'une démonstration à livrer en urgence pour un client, il m'a été demandé de concevoir une maquette Fiori simulant un site existant afin d'illustrer le fonctionnement de SAP dans un contexte métier réaliste. <br></br>Ce projet, à fort enjeu stratégique, devait être livré en seulement deux jours, en parallèle d'une autre mission.</p>
     ),
     clientContext: (
       <p>Le client devait se projeter dans l'usage de SAP Fiori à travers une simulation d'interface adaptée à son activité, centrée sur le calcul de devis pour différents types de chantiers. La qualité visuelle et la fluidité de l'expérience utilisateur étaient donc déterminantes pour orienter sa décision dans la phase d'avant-vente.</p>
