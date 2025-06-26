@@ -8,15 +8,15 @@ export interface ArticleContent {
   image?: string;
   category?: string;
   pitch?: string;
-  overview: string;
-  implementationContext: string;
-  clientContext: string;
-  objective: string;
-  challenges: string;
-  risks: string;
-  presentation: string;
-  explanation: string;
-  results: string;
+  overview: ReactNode;
+  implementationContext: ReactNode;
+  clientContext: ReactNode;
+  objective: ReactNode;
+  challenges: ReactNode;
+  risks: ReactNode;
+  presentation: ReactNode;
+  explanation: ReactNode;
+  results: ReactNode;
 }
 
 export interface SkillArticle extends ArticleContent {

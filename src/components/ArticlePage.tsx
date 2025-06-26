@@ -47,9 +47,9 @@ const ArticlePage: React.FC<ArticlePageProps> = ({ article, category }) => {
               <h2 className="text-2xl font-bold mb-6 text-gray-900 dark:text-white pb-2 border-b border-gray-200 dark:border-gray-700">
                 
               </h2>
-              <p className="text-gray-700 dark:text-gray-300 leading-relaxed italic">
+              <div className="text-gray-700 dark:text-gray-300 leading-relaxed italic">
                 {article.overview}
-              </p>
+              </div>
             </section>
 
             {/* Special layout for full-stack overview article */}
@@ -146,9 +146,9 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                         </h2>
                       </div>
                       <div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg h-full">
-                        <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
+                        <div className="text-gray-700 dark:text-gray-300 leading-relaxed">
                           {article.implementationContext}
-                        </p>
+                        </div>
                       </div>
                     </section>
 
@@ -160,9 +160,9 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                         </h2>
                       </div>
                       <div className="bg-gray-50 dark:bg-gray-700 p-6 rounded-lg h-full">
-                        <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
+                        <div className="text-gray-700 dark:text-gray-300 leading-relaxed">
                           {article.clientContext}
-                        </p>
+                        </div>
                       </div>
                     </section>
                   </div>
@@ -183,9 +183,9 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                             Objectif
                           </h3>
                         </div>
-                        <p className="text-gray-700 dark:text-gray-300">
+                        <div className="text-gray-700 dark:text-gray-300">
                           {article.objective}
-                        </p>
+                        </div>
                       </div>
 
                       <div className="bg-teal-50 dark:bg-teal-900/20 p-6 rounded-lg border-t-4 border-teal-600 dark:border-teal-400">
@@ -195,9 +195,9 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                             Enjeux
                           </h3>
                         </div>
-                        <p className="text-gray-700 dark:text-gray-300">
+                        <div className="text-gray-700 dark:text-gray-300">
                           {article.challenges}
-                        </p>
+                        </div>
                       </div>
 
                       <div className="bg-orange-50 dark:bg-orange-900/20 p-6 rounded-lg border-t-4 border-orange-600 dark:border-orange-400">
@@ -207,9 +207,9 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                             Risques
                           </h3>
                         </div>
-                        <p className="text-gray-700 dark:text-gray-300">
+                        <div className="text-gray-700 dark:text-gray-300">
                           {article.risks}
-                        </p>
+                        </div>
                       </div>
                     </div>
                   </section>
@@ -229,9 +229,9 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                     <h3 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">
                       Présentation
                     </h3>
-                    <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
+                    <div className="text-gray-700 dark:text-gray-300 leading-relaxed">
                       {article.presentation}
-                    </p>
+                    </div>
                   </div>
 
                   {article.id === 'e-commerce-platform' && (
@@ -258,9 +258,9 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                     <h3 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">
                       Vulgarisation
                     </h3>
-                    <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
+                    <div className="text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
                       {article.explanation}
-                    </p>
+                    </div>
                     
                     {/* Image illustrative - Only for e-commerce-platform project */}
                     {article.id === 'e-commerce-platform' && (
@@ -293,9 +293,9 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                           Impact & Résultats
                         </h4>
                       </div>
-                      <p className="text-gray-700 dark:text-gray-300">
+                      <div className="text-gray-700 dark:text-gray-300">
                         {article.results}
-                      </p>
+                      </div>
                     </div>
                   </div>
                 </div>
