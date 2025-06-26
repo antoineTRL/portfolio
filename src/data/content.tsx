@@ -382,7 +382,7 @@ export const achievements: ProjectArticle[] = [
   },
   {
     id: 'fintech-app',
-    title: 'PLAN DE 2 RÉALISATIONS',
+    title: 'Réalisation de deux projets simultanément',
     description: 'Développement d\'une application mobile permettant aux utilisateurs de gérer leurs finances personnelles, suivre leurs dépenses et recevoir des conseils financiers personnalisés.',
     image: 'https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
     category: 'Gestion',
