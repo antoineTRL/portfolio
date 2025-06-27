@@ -16,34 +16,6 @@ const ArticlePage: React.FC<ArticlePageProps> = ({ article, category }) => {
   const isFullStackOverview = article.id === 'full-stack-development';
   const shouldHideContextSections = isTransversalSkill || isFullStackOverview;
 
-  // Custom titles for specific articles
-  const getCustomTitles = (articleId: string) => {
-    switch (articleId) {
-      case 'independence-collaboration':
-        return {
-          presentation: 'Autonome, mais jamais isolé',
-          explanation: 'Autonomie guidée, autonomie gagnée !!'
-        };
-      case 'adaptation-habit':
-        return {
-          presentation: 'S\'adapter pour progresser',
-          explanation: 'Une vision d\'ensemble sur le monde informatique'
-        };
-      case 'technical-english':
-        return {
-          presentation: 'De la technique à la posture de consultant',
-          explanation: 'Stress, langue et technique'
-        };
-      default:
-        return {
-          presentation: 'Présentation',
-          explanation: 'Vulgarisation'
-        };
-    }
-  };
-
-  const customTitles = getCustomTitles(article.id);
-
   return (
     <div className="pt-16 bg-gray-50 dark:bg-gray-900 min-h-screen">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -255,7 +227,7 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                 <div className="space-y-8">
                   <div>
                     <h3 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">
-                      {customTitles.presentation}
+                      Présentation
                     </h3>
                     <div className="text-gray-700 dark:text-gray-300 leading-relaxed">
                       {article.presentation}
@@ -284,7 +256,7 @@ Les tests fonctionnels sont une étape normale de l'avancement d'un projet, gara
                 )}
                   <div>
                     <h3 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">
-                      {customTitles.explanation}
+                      Vulgarisation
                     </h3>
                     <div className="text-gray-700 dark:text-gray-300 leading-relaxed mb-6">
                       {article.explanation}
