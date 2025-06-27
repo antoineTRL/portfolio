@@ -68,7 +68,7 @@ Lorsque je m'entretiens avec des collègues experts, c'est souvent face à un pr
             
             <div className="bg-gray-100 dark:bg-gray-700 p-6 rounded-lg border-l-4 border-blue-600 dark:border-blue-400 mb-8">
               <h4 className="text-xl font-semibold mb-3 text-gray-900 dark:text-white">
-                Ma proposition de valeur
+                Ce qui me motive
               </h4>
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                 "Ce qui me motive, c’est la résolution de problèmes concrets en combinant maîtrise technique et compréhension métier. En chemin vers un rôle de consultant SAP expert, j'apprécie particulièrement les environnements où je peux apprendre en profondeur, collaborer avec des experts, et transformer les défis techniques en leviers de performance."
