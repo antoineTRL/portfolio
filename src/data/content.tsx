@@ -1,5 +1,6 @@
 import React from 'react';
-import { Database, Code, Globe, Users, Lightbulb, MessageSquare, SkillArticle, ProjectArticle } from '../types';
+import { Database, Code, Globe, Users, Lightbulb, MessageSquare } from 'lucide-react';
+import { SkillArticle, ProjectArticle } from '../types';
 
 export const technicalSkills: SkillArticle[] = [
   {
